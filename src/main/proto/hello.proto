@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package org.example.hellogrpc.protobuf;
+option java_multiple_files = false;
+option java_package = "org.example.hellogrpc.protobuf.hello_protobuf";
